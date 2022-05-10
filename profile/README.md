@@ -1,11 +1,10 @@
-## Hi there 👋
-We are edp-ken, one of college clubs in japan. 
-OUR MOTTO is below. 
-
-"We are producing something we want."
-"私たちは私たちのつくりたいものをつくる"
-
-If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
+##### Hi there 👋
+## Our Profile
+###  We are edp-ken, one of college clubs in japan. 
+## Our Mottto
+### "We are producing something we want."
+### "私たちは私たちのつくりたいものをつくる"
+#### ※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
 
 
 <!--
