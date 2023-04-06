@@ -4,7 +4,7 @@
 ## Our Profile
 ###  We are edp-ken, one of college clubs in japan. 
 ## Our Mottto
-### "We are producing something we want."
+### "we create what we want to make"
 ### "私たちは私たちのつくりたいものをつくる"
 #### ※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
 
