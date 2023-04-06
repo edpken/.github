@@ -9,6 +9,21 @@
 #### ※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
 
 
+#### 各種SNSもあるので見てみてください。
+Twitter
+https://twitter.com/edpken
+
+Instagram
+https://www.instagram.com/edpken/
+
+Mastodon
+https://mstdn.jp/@edpken
+
+Youtube
+https://www.youtube.com/@edpken
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
