@@ -11,16 +11,16 @@
 
 #### 各種SNSもあるので見てみてください。
 Twitter
-https://twitter.com/edpken
+[https://x.com/edpken](https://x.com/edpken)
 
 Instagram
-https://www.instagram.com/edpken/
+[https://www.instagram.com/edpken/](https://www.instagram.com/edpken/)
 
 Mastodon
-https://mstdn.jp/@edpken
+[https://mstdn.jp/@edpken](https://mstdn.jp/@edpken)
 
 Youtube
-https://www.youtube.com/@edpken
+[https://www.youtube.com/@edpken](https://www.youtube.com/@edpken)
 
 
 
