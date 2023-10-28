@@ -36,6 +36,18 @@ maintaining web servers, etc.
 Please come and join us. 
 ```
 
+> CH
+```
+冈山理科大学 情報処理研究部 -edpken-
+
+我们、情報処理研究部（EDP - Electronic Data Processing 研-）主要使用计算机进行活动。如果您使用C语言、HTML、JavaScript、Python或C#等编程语言，并且有任何疑问，请随时咨询我们。
+我们还有一台Linux（Ubuntu）服务器，从怎么学习并运行程序等基础知识，到服务器管理、OSS（Open Source Software）实现和外部披露等高级内容。
+我尝试创作自己喜欢的、可以传播给其他成员的作品，以及大家容易理解、感兴趣的作品。
+近期，我们不断发布技术员的安全相关的活动，并努力营造一个可以轻松获取信息的环境。
+
+如果您想用Unity制作游戏，或者对应用程序制作、网页制作、网页服务器维护等感兴趣，请访问我们。
+```
+
 ## Our Mottto
 
 "we create what we want to make"<br>
