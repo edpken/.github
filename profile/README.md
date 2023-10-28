@@ -44,6 +44,7 @@ a lot of difficulties that you underway in your future.
 
 
 > 各種SNSもあるので見てみてください。
+
 Twitter
 [https://x.com/edpken](https://x.com/edpken)
 
