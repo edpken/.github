@@ -31,7 +31,7 @@ and we strive to create an environment where information can be easily obtained.
  If you are interested in making games with Unity, creating applications, creating websites,
  maintaining web servers, etc.
 
-please come and join us. 
+Please come and join us. 
 ```
 
 ## Our Mottto
