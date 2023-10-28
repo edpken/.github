@@ -4,18 +4,34 @@
 
 ## Our Profile
 
-###  We are edp-ken, one of college clubs in japan. 
+> JA
+```
+私たち、情報処理研究部 ( EDP - Electronic Data Processing 研-)は主にコンピュータを使用した活動をしています。 C言語、HTML、JavaScript、Python、C＃などのプログラミング言語を使っていて、わからないことがあれば、気軽に相談することができます。 
+また、Linux(Ubuntu)のサーバーもあり、プログラムの実行方法などの基本的なことからサーバー管理やOSS(Open Source Software)の導入、外部公開などの発展的な内容も学べる機会を提供しています。 
+自分が楽しめて他の部員に布教できるような作品や誰にとってもわかりやすく興味が湧く作品などを制作できるように心がけています。 
+最近では情報系のセキュリティ関連のイベントなどの部内告知があり、簡単に情報が得れるような環境づくりにも努めています。 
+
+ Unityでゲームを作ってみたい方、アプリ制作、WEB制作、WEBサーバー等の保守などに興味がある方はぜひお越しください。 
+```
+> EN
+```
+We are jyou-hou-sho-ri-ken-kyuu-bu in japanese, and  Electronic Data Processing club. 
+Our activities are mainly computer-based. 
+We use programming languages such as C, HTML, JavaScript, Python, C#, etc. If you have any questions, feel free to ask us. 
+We also have a Linux (Ubuntu) server, which provides opportunities to learn basic things such as how to run programs, as well as more advanced topics such as server management, OSS (Open Source Software), and external publishing. We try to produce products which we can enjoy and share with other club members, and which are easy to understand and interesting for everyone. 
+Recently, there have been announcements of information security-related events in the club, and we strive to create an environment where information can be easily obtained. 
+ If you are interested in making games with Unity, creating applications, creating websites, maintaining web servers, etc., please come and join us. 
+```
 
 ## Our Mottto
 
-### "we create what we want to make"
+"we create what we want to make"
+"私たちは私たちのつくりたいものをつくる"
 
-### "私たちは私たちのつくりたいものをつくる"
-
-#### ※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
+※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
 
 
-#### 各種SNSもあるので見てみてください。
+> 各種SNSもあるので見てみてください。
 Twitter
 [https://x.com/edpken](https://x.com/edpken)
 
