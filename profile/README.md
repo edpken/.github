@@ -36,12 +36,13 @@ Please come and join us.
 
 ## Our Mottto
 
-"we create what we want to make"
-"私たちは私たちのつくりたいものをつくる"
+"we create what we want to make"<br>
+"私たちは私たちのつくりたいものをつくる"<br>
 
+```
 ※ If you find this profile, we think you can overcome 
 a lot of difficulties that you underway in your future. 
-
+```
 
 > 各種SNSもあるので見てみてください。
 
