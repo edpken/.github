@@ -30,8 +30,8 @@ and external publishing. We try to produce products which we can enjoy and share
 and which are easy to understand and interesting for everyone. 
 Recently, there have been announcements of information security-related events in the club, 
 and we strive to create an environment where information can be easily obtained. 
- If you are interested in making games with Unity, creating applications, creating websites,
- maintaining web servers, etc.
+If you are interested in making games with Unity, creating applications, creating websites,
+maintaining web servers, etc.
 
 Please come and join us. 
 ```
