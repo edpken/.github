@@ -1,11 +1,17 @@
 <!-- # ## ### #### ##### ###### #は一番大きい。　######は一番小さい。それを理解した上で、文字の大きさを調節しよう！！ -->
 
 ##### Hi there 👋
+
 ## Our Profile
+
 ###  We are edp-ken, one of college clubs in japan. 
+
 ## Our Mottto
+
 ### "we create what we want to make"
+
 ### "私たちは私たちのつくりたいものをつくる"
+
 #### ※ If you find this profile, we think you can overcome a lot of difficulties that you underway in your future. 
 
 
