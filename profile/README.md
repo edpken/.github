@@ -24,7 +24,8 @@ We are jyou-hou-sho-ri-ken-kyuu-bu in japanese, and  Electronic Data Processing 
 Our activities are mainly computer-based. 
 We use programming languages such as C, HTML, JavaScript, Python, C#, etc. If you have any questions, 
 feel free to ask us. 
-We also have a Linux (Ubuntu) server, which provides opportunities to learn basic things such as how to run programs, as well as more advanced topics such as server management, OSS (Open Source Software), 
+We also have a Linux (Ubuntu) server, which provides opportunities to learn basic things such as 
+how to run programs, as well as more advanced topics such as server management, OSS (Open Source Software), 
 and external publishing. We try to produce products which we can enjoy and share with other club members, 
 and which are easy to understand and interesting for everyone. 
 Recently, there have been announcements of information security-related events in the club, 
